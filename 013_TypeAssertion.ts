@@ -18,3 +18,7 @@ var avenueRoad: House = {
 var mansion: Mansion = <Mansion>avenueRoad;
 console.log(mansion);
 console.log(mansion.Butlers === undefined);
+
+var Name: string = "Avenue Road";
+var ngo: number = <number><any>Name;
+console.log(ngo);
