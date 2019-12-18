@@ -44,5 +44,4 @@ function RestAverage(...a) {
 } //End_Function
 console.log(RestAverage(2, 4, 6, 8, 10));
 console.log(RestAverage(114, 514, 1919, 810));
-// アロー関数
 //# sourceMappingURL=021_Function.js.map
