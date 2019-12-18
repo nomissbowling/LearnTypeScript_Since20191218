@@ -1,3 +1,4 @@
+"use strict";
 // プリミティブ型
 var Name = "Steve";
 var heightInCentimeters = 175.3;
@@ -15,5 +16,8 @@ var Person;
 // パーソンオブジェクト実装
 Person = {
     Name: "Bebebe",
-    HeightInCentimeters: 175.3
+    HeightInCentimeters: 175.3,
 };
+var unti = 334;
+var hotti = "hotti";
+//# sourceMappingURL=006_TypeAnotation.js.map

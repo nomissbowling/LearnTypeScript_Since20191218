@@ -22,3 +22,6 @@ Person = {
     Name: "Bebebe",
     HeightInCentimeters: 175.3,
 };
+
+var unti: number = 334;
+var hotti = "hotti";

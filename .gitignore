@@ -1,0 +1,3 @@
+# javascript map files
+*.map
+node_modules
