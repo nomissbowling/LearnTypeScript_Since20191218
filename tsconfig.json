@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "outDir": "./",
+        "outDir": "./JS",
         "rootDir": "./",
         "sourceMap": true,
         "noImplicitAny": true,
