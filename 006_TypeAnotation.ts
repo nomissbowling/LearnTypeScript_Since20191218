@@ -21,7 +21,29 @@ var Person: {Name: string; HeightInCentimeters: number};
 Person = {
     Name: "Bebebe",
     HeightInCentimeters: 175.3,
-};
+}; // End_Object
 
-var unti: number = 334;
-var hotti = "hotti";
+// インターフェースを用いてアノテーションを単純化
+interface Personson{
+    Name: string;
+    HeightInCentimeters: number;
+} //End_Interface
+var p: Personson = {
+    Name: "hotti",
+    HeightInCentimeters: 334
+} //End_Object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

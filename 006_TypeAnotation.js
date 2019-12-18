@@ -17,7 +17,9 @@ var Person;
 Person = {
     Name: "Bebebe",
     HeightInCentimeters: 175.3,
-};
-var unti = 334;
-var hotti = "hotti";
+}; // End_Object
+var p = {
+    Name: "hotti",
+    HeightInCentimeters: 334
+}; //End_Object
 //# sourceMappingURL=006_TypeAnotation.js.map
